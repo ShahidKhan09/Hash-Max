@@ -1,0 +1,19 @@
+trigger:
+  branches:
+    include:
+      - master
+  paths:
+    exclude:
+      - README.md
+      - LICENSE
+pr: none
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: Npm@1
+  inputs:
+    command: 'publish'
+    workingDir: '$(System.DefaultWorkingDirectory)/'
+    publishEndpoint: 'npm_cladular'

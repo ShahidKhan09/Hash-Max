@@ -1,0 +1,1713 @@
+{
+    "0": {
+        "name": "#0",
+        "description": "",
+        "image": "/0",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "pink"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "7"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (2)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "6"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "1"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "6"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "7"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "7"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "veil"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy"
+            }
+        ]
+    },
+    "1": {
+        "name": "#1",
+        "description": "",
+        "image": "/1",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "green"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (4)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "8"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (4)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "9"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "5"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "9"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "2"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "8"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "8"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none1"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (3)"
+            }
+        ]
+    },
+    "2": {
+        "name": "#2",
+        "description": "",
+        "image": "/2",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "green"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "none"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "1"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "6"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "4"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "8"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "4"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "2"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "6"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "1"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.3"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "nine tailed fox"
+            }
+        ]
+    },
+    "3": {
+        "name": "#3",
+        "description": "",
+        "image": "/3",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "yellow"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "3"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (4)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "8"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "1"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "1"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "5"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "3"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "8"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none2"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "angel"
+            }
+        ]
+    },
+    "4": {
+        "name": "#4",
+        "description": "",
+        "image": "/4",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "purple"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "none"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "3"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (5)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "8"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "3"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "7"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "3"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "3"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "veil"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none1"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (4)"
+            }
+        ]
+    },
+    "5": {
+        "name": "#5",
+        "description": "",
+        "image": "/5",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "aqua"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (2)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "8"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (5)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "5"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "1"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "2"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "8"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none1"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front"
+            }
+        ]
+    },
+    "6": {
+        "name": "#6",
+        "description": "",
+        "image": "/6",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "pink"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (2)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "4"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "7"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "1"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "1"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "6"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "4"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.3"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy"
+            }
+        ]
+    },
+    "7": {
+        "name": "#7",
+        "description": "",
+        "image": "/7",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "orange"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "7"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (4)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "3"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "8"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "7"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "6"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "7"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "9"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "2"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "wolf"
+            }
+        ]
+    },
+    "8": {
+        "name": "#8",
+        "description": "",
+        "image": "/8",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "pink"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (3)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "3"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "4"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "7"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "4"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "5"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.4"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy"
+            }
+        ]
+    },
+    "9": {
+        "name": "#9",
+        "description": "",
+        "image": "/9",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "pink"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "none"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "1"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "2"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (5)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "5"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "3"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "8"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "2"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "1"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none2"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "angel"
+            }
+        ]
+    },
+    "10": {
+        "name": "#10",
+        "description": "",
+        "image": "/10",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "purple"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (4)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "8"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "7"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "8"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "1"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "1"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "8"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "nine tailed fox"
+            }
+        ]
+    },
+    "11": {
+        "name": "#11",
+        "description": "",
+        "image": "/11",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "orange"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (2)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (3)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "1"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "7"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "1"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "9"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none2"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (3)"
+            }
+        ]
+    },
+    "12": {
+        "name": "#12",
+        "description": "",
+        "image": "/12",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "yellow"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (3)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (5)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "1"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "7"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "3"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.3"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (2)"
+            }
+        ]
+    },
+    "13": {
+        "name": "#13",
+        "description": "",
+        "image": "/13",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "purple"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "6"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "5"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "1"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "5"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "1"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "6"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.3"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (2)"
+            }
+        ]
+    },
+    "14": {
+        "name": "#14",
+        "description": "",
+        "image": "/14",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "orange"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (4)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "6"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "3"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "7"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "3"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "6"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "11"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "angel"
+            }
+        ]
+    },
+    "15": {
+        "name": "#15",
+        "description": "",
+        "image": "/15",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "purple"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (3)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "7"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "2"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "1"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "2"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "2"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "7"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none2"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (2)"
+            }
+        ]
+    },
+    "16": {
+        "name": "#16",
+        "description": "",
+        "image": "/16",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "aqua"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "none"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "4"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "6"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "7"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "6"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "4"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "veil"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.3"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front"
+            }
+        ]
+    },
+    "17": {
+        "name": "#17",
+        "description": "",
+        "image": "/17",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "orange"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "none"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "7"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "7"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "7"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "3"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "7"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.4"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (3)"
+            }
+        ]
+    },
+    "18": {
+        "name": "#18",
+        "description": "",
+        "image": "/18",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "yellow"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (3)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "5"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "3"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "3"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "8"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "5"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.3"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "wolf"
+            }
+        ]
+    },
+    "19": {
+        "name": "#19",
+        "description": "",
+        "image": "/19",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "yellow"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "4"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "4"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "3"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "8"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "4"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "5"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (2)"
+            }
+        ]
+    },
+    "20": {
+        "name": "#20",
+        "description": "",
+        "image": "/20",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "aqua"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (4)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (5)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "3"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "8"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "3"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "1"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.3"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (3)"
+            }
+        ]
+    },
+    "21": {
+        "name": "#21",
+        "description": "",
+        "image": "/21",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "aqua"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "1"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (3)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "8"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "7"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "1"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "8"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "1"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.3"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy"
+            }
+        ]
+    },
+    "22": {
+        "name": "#22",
+        "description": "",
+        "image": "/22",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "green"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "4"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "7"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "7"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "7"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "7"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "4"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.3"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (2)"
+            }
+        ]
+    },
+    "23": {
+        "name": "#23",
+        "description": "",
+        "image": "/23",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "aqua"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "3"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (3)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "1"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "3"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "3"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "6"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "3"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.4"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "nine tailed fox"
+            }
+        ]
+    },
+    "24": {
+        "name": "#24",
+        "description": "",
+        "image": "/24",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "purple"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (2)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "2"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "snake"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "3"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "7"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "1"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "2"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "2"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "10"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none2"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "snake"
+            }
+        ]
+    },
+    "25": {
+        "name": "#25",
+        "description": "",
+        "image": "/25",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "orange"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (2)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "8"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (3)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "4"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "1"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "4"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "6"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "8"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy (3)"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "6"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (3)"
+            }
+        ]
+    },
+    "26": {
+        "name": "#26",
+        "description": "",
+        "image": "/26",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "green"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings - Copy (2)"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "3"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (4)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "3"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "2"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "3"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "8"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "3"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "11"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "angel"
+            }
+        ]
+    },
+    "27": {
+        "name": "#27",
+        "description": "",
+        "image": "/27",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "pink"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "no wings"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "6"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (3)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "3"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "8"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "1"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "3"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "6"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "8"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.4"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front - Copy (3)"
+            }
+        ]
+    },
+    "28": {
+        "name": "#28",
+        "description": "",
+        "image": "/28",
+        "attributes": [
+            {
+                "trait_type": "backgrounds",
+                "value": "green"
+            },
+            {
+                "trait_type": "female wings",
+                "value": "1"
+            },
+            {
+                "trait_type": "accessories back",
+                "value": "no accessory - Copy (2)"
+            },
+            {
+                "trait_type": "female back hair",
+                "value": "5"
+            },
+            {
+                "trait_type": "pets back",
+                "value": "no pets back - Copy (3)"
+            },
+            {
+                "trait_type": "Clothes back",
+                "value": "8"
+            },
+            {
+                "trait_type": "Base female",
+                "value": "2"
+            },
+            {
+                "trait_type": "female cloths",
+                "value": "3"
+            },
+            {
+                "trait_type": "female eyes",
+                "value": "7"
+            },
+            {
+                "trait_type": "female front hair",
+                "value": "5"
+            },
+            {
+                "trait_type": "accessories front",
+                "value": "no accessory - Copy"
+            },
+            {
+                "trait_type": "Necklaces",
+                "value": "none.4"
+            },
+            {
+                "trait_type": "pets front",
+                "value": "no pets front"
+            }
+        ]
+    }
+}

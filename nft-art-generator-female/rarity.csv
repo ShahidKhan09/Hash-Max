@@ -7,48 +7,48 @@ name,rarity
 6 Base female,4500
 7 Base female,4500
 8 Base female,4500
-1 Clothes back,4500
-2 Clothes back,4500
-3 Clothes back,4500
-4 Clothes back,4500
-5 Clothes back,4500
-6 Clothes back,4500
-7 Clothes back,4500
-8 Clothes back,4500
-9 Clothes back,4500
-11 Necklaces,4500
-2 Necklaces,4500
-6 Necklaces,4500
+1 Clothes back,556
+2 Clothes back,556
+3 Clothes back,556
+4 Clothes back,556
+5 Clothes back,555
+6 Clothes back,555
+7 Clothes back,555
+8 Clothes back,0
+9 Clothes back,555
+11 Necklaces,667
+2 Necklaces,667
+6 Necklaces,667
 none.3 Necklaces,4500
 none.4 Necklaces,4500
 none Necklaces,4500
 none1 Necklaces,4500
 none2 Necklaces,4500
-1 accessories back,4500
-3 accessories back,4500
-7 accessories back,4500
-bag 1 accessories back,4500
-bag 2 accessories back,4500
-no accessory - Copy (2) accessories back,4500
-no accessory - Copy (3) accessories back,4500
-no accessory - Copy accessories back,4500
-no accessory accessories back,4500
-1 accessories front,4500
-11 accessories front,4500
-10 accessories front,4500
-3 accessories front,4500
-5 accessories front,4500
-7 accessories front,4500
-8 accessories front,4500
-9 accessories front,4500
-bag 1 accessories front,4500
-bag 2 accessories front,4500
-no accessory - Copy (2) accessories front,4500
-no accessory - Copy (3) accessories front,4500
-no accessory - Copy accessories front,4500
-no accessory accessories front,4500
-veil accessories front,4500
-1 backgrounds,315
+1 accessories back,444
+3 accessories back,178
+7 accessories back,533
+bag 1 accessories back,622
+bag 2 accessories back,622
+no accessory - Copy (2) accessories back,664
+no accessory - Copy (3) accessories back,1
+no accessory - Copy accessories back,1
+no accessory accessories back,1
+1 accessories front,444
+11 accessories front,311
+10 accessories front,667
+3 accessories front,178
+5 accessories front,533
+7 accessories front,533
+8 accessories front,667
+9 accessories front,533
+bag 1 accessories front,622
+bag 2 accessories front,622
+no accessory - Copy (2) accessories front,664
+no accessory - Copy (3) accessories front,1
+no accessory - Copy accessories front,1
+no accessory accessories front,1
+veil accessories front,0
+1 backgrounds,319
 10 backgrounds,315
 11 backgrounds,315
 12 backgrounds,315
@@ -61,29 +61,149 @@ veil accessories front,4500
 6 backgrounds,315
 7 backgrounds,315
 8 backgrounds,315
-9 backgrounds,319
+9 backgrounds,315
 aqua backgrounds,5
 green backgrounds,5
 orange backgrounds,5
 pink backgrounds,5
 purple backgrounds,5
 yellow backgrounds,5
-1 female back hair,4500
-2 female back hair,4500
-3 female back hair,4500
-4 female back hair,4500
-5 female back hair,4500
-6 female back hair,4500
-7 female back hair,4500
-8 female back hair,4500
-1 female cloths,4500
-2 female cloths,4500
-3 female cloths,4500
-4 female cloths,4500
-5 female cloths,4500
-6 female cloths,4500
-7 female cloths,4500
-9 female cloths,4500
+1 black green female back hair,69
+1 black female back hair,69
+1 blue female back hair,70
+1 gray female back hair,69
+1 purple female back hair,69
+1 pink female back hair,69
+1 yellow female back hair,70
+1 female back hair,70
+2 black green female back hair,70
+2 black female back hair,69
+2 blue female back hair,70
+2 pink female back hair,69
+2 purple female back hair,69
+2 red female back hair,70
+2 yellow female back hair,70
+2 female back hair,69
+3 black green female back hair,70
+3 black female back hair,69
+3 blue female back hair,70
+3 gray female back hair,69
+3 purple female back hair,69
+3 red female back hair,70
+3 yellow female back hair,70
+3 female back hair,69
+4 black green female back hair,70
+4 black female back hair,69
+4 blue female back hair,70
+4 gray female back hair,69
+4 pink female back hair,556
+4 purple female back hair,69
+4 red female back hair,70
+4 female back hair,70
+5 black green female back hair,70
+5 black female back hair,69
+5 gray female back hair,69
+5 pink female back hair,69
+5 purple female back hair,69
+5 red female back hair,70
+5 yellow female back hair,70
+5 female back hair,70
+6 black green female back hair,69
+6 black female back hair,69
+6 blue female back hair,70
+6 gray female back hair,69
+6 pink female back hair,69
+6 red female back hair,70
+6 yellow female back hair,70
+6 female back hair,69
+7 black green female back hair,69
+7 blue female back hair,70
+7 gray female back hair,69
+7 pink female back hair,69
+7 purple female back hair,69
+7 red female back hair,70
+7 yellow female back hair,70
+7 female back hair,69
+8 black green female back hair,69
+8 blue female back hair,70
+8 gray female back hair,69
+8 pink female back hair,69
+8 purple female back hair,69
+8 red female back hair,70
+8 yellow female back hair,70
+8 female back hair,69
+veil 1 black green female back hair,55
+veil 1 black female back hair,55
+veil 1 blue female back hair,56
+veil 1 gray female back hair,56
+veil 1 pink female back hair,56
+veil 1 purple female back hair,55
+veil 1 yellow female back hair,56
+veil 1 female back hair,55
+veil 2 black green female back hair,55
+veil 2 black female back hair,55
+veil 2 blue female back hair,56
+veil 2 pink female back hair,56
+veil 2 purple female back hair,55
+veil 2 red female back hair,55
+veil 2 yellow female back hair,56
+veil 2 female back hair,56
+veil 3 black green female back hair,55
+veil 3 black female back hair,55
+veil 3 blue female back hair,56
+veil 3 gray female back hair,56
+veil 3 purple female back hair,55
+veil 3 red female back hair,55
+veil 3 yellow female back hair,56
+veil 3 female back hair,56
+veil 4 black green female back hair,55
+veil 4 black female back hair,55
+veil 4 blue female back hair,56
+veil 4 gray female back hair,56
+veil 4 pink female back hair,56
+veil 4 purple female back hair,55
+veil 4 red female back hair,55
+veil 4 female back hair,56
+veil 5 black green female back hair,55
+veil 5 black female back hair,55
+veil 5 gray female back hair,56
+veil 5 pink female back hair,56
+veil 5 purple female back hair,55
+veil 5 red female back hair,55
+veil 5 yellow female back hair,56
+veil 5 female back hair,56
+veil 6 black green female back hair,55
+veil 6 black female back hair,55
+veil 6 blue female back hair,56
+veil 6 gray female back hair,56
+veil 6 pink female back hair,56
+veil 6 red female back hair,55
+veil 6 yellow female back hair,56
+veil 6 female back hair,55
+veil 7 black green female back hair,55
+veil 7 blue female back hair,56
+veil 7 gray female back hair,56
+veil 7 pink female back hair,56
+veil 7 purple female back hair,55
+veil 7 red female back hair,55
+veil 7 yellow female back hair,56
+veil 7 female back hair,55
+veil 8 black female back hair,55
+veil 8 blue female back hair,56
+veil 8 gray female back hair,56
+veil 8 pink female back hair,56
+veil 8 purple female back hair,55
+veil 8 red female back hair,55
+veil 8 yellow female back hair,56
+veil 8 female back hair,55
+1 female cloths,556
+2 female cloths,556
+3 female cloths,556
+4 female cloths,556
+5 female cloths,555
+6 female cloths,555
+7 female cloths,555
+9 female cloths,555
 1 female eyes,4500
 2 female eyes,4500
 3 female eyes,4500
@@ -92,14 +212,134 @@ yellow backgrounds,5
 6 female eyes,4500
 7 female eyes,4500
 8 female eyes,4500
-1 female front hair,4500
-2 female front hair,4500
-3 female front hair,4500
-4 female front hair,4500
-5 female front hair,4500
-6 female front hair,4500
-7 female front hair,4500
-8 female front hair,4500
+1 black green female front hair,69
+1 black female front hair,69
+1 blue female front hair,70
+1 gray female front hair,69
+1 pink female front hair,69
+1 purple female front hair,69
+1 yellow female front hair,70
+1 female front hair,70
+2 black green female front hair,70
+2 black female front hair,69
+2 blue female front hair,70
+2 pink female front hair,69
+2 purple female front hair,69
+2 red female front hair,70
+2 yellow female front hair,70
+2 female front hair,69
+3 black green female front hair,70
+3 black female front hair,69
+3 blue female front hair,70
+3 gray female front hair,69
+3 purple female front hair,69
+3 red female front hair,70
+3 yellow female front hair,70
+3 female front hair,69
+4 black green female front hair,70
+4 black female front hair,69
+4 blue female front hair,70
+4 gray female front hair,69
+4 pink female front hair,69
+4 purple female front hair,69
+4 red female front hair,70
+4 female front hair,70
+5 black green female front hair,70
+5 black female front hair,69
+5 gray female front hair,69
+5 pink female front hair,69
+5 purple female front hair,69
+5 red female front hair,70
+5 yellow female front hair,70
+5 female front hair,70
+6 black green female front hair,69
+6 black female front hair,69
+6 blue female front hair,70
+6 gray female front hair,69
+6 pink female front hair,69
+6 red female front hair,70
+6 yellow female front hair,70
+6 female front hair,69
+7 black green female front hair,69
+7 blue female front hair,70
+7 gray female front hair,69
+7 pink female front hair,69
+7 purple female front hair,69
+7 red female front hair,70
+7 yellow female front hair,70
+7 female front hair,69
+8 black female front hair,69
+8 blue female front hair,70
+8 gray female front hair,69
+8 pink female front hair,69
+8 purple female front hair,69
+8 red female front hair,70
+8 yellow female front hair,70
+8 female front hair,69
+veil 1 black green female front hair,55
+veil 1 black female front hair,55
+veil 1 blue female front hair,56
+veil 1 gray female front hair,56
+veil 1 pink female front hair,56
+veil 1 purple female front hair,55
+veil 1 yellow female front hair,56
+veil 1 female front hair,55
+veil 2 black green female front hair,55
+veil 2 black female front hair,55
+veil 2 blue female front hair,56
+veil 2 pink female front hair,56
+veil 2 purple female front hair,55
+veil 2 red female front hair,55
+veil 2 yellow female front hair,56
+veil 2 female front hair,56
+veil 3 black green female front hair,55
+veil 3 black female front hair,55
+veil 3 blue female front hair,56
+veil 3 gray female front hair,56
+veil 3 purple female front hair,55
+veil 3 red female front hair,55
+veil 3 yellow female front hair,56
+veil 3 female front hair,56
+veil 4 black green female front hair,55
+veil 4 black female front hair,55
+veil 4 blue female front hair,56
+veil 4 gray female front hair,56
+veil 4 pink female front hair,56
+veil 4 purple female front hair,55
+veil 4 red female front hair,55
+veil 4 female front hair,56
+veil 5 black green female front hair,55
+veil 5 black female front hair,55
+veil 5 gray female front hair,56
+veil 5 pink female front hair,56
+veil 5 purple female front hair,55
+veil 5 red female front hair,55
+veil 5 yellow female front hair,56
+veil 5 female front hair,56
+veil 6 black green female front hair,55
+veil 6 black female front hair,55
+veil 6 blue female front hair,56
+veil 6 gray female front hair,56
+veil 6 pink female front hair,56
+veil 6 red female front hair,55
+veil 6 yellow female front hair,56
+veil 6 female front hair,55
+veil 7 black green female front hair,55
+veil 7 blue female front hair,56
+veil 7 gray female front hair,56
+veil 7 pink female front hair,56
+veil 7 purple female front hair,55
+veil 7 red female front hair,55
+veil 7 yellow female front hair,56
+veil 7 female front hair,55
+veil 8 black female front hair,55
+veil 8 blue female front hair,56
+veil 8 gray female front hair,56
+veil 8 pink female front hair,56
+veil 8 purple female front hair,55
+veil 8 red female front hair,55
+veil 8 yellow female front hair,56
+veil 8 female front hair,55
 1 female wings,4500
 no wings - Copy (2) female wings,4500
 no wings - Copy (3) female wings,4500

@@ -274,7 +274,7 @@ async function setWeights(trait) {
     toMatch = toMatch.split(".png")[0];
     toMatch = toMatch + " " + trait;
     let rar = rarirty.find((e) => e.name == toMatch);
-    // console.log('rarirty:::::', rar, toMatch)
+    console.log('rarirty:::::', rar, toMatch)
     weights[file] = rar.rarity;
     // weights[file] = Math.round(Math.random() * (5000 - 4500) + 4500);
     // weights[file] = selectedWeights[names[file] + '_weight'];
@@ -415,15 +415,15 @@ async function generateImages() {
               }
             }
           }
-         // hair fron 3 = hair back 3
+         // hair fron 3 = hair back 3 (1,2,3,4,5,6) 
           if (id == 3) {
             if (
-              pickedImg == "1.png" ||
-              pickedImg == "5.png" ||
-              pickedImg == "2.png" ||
-              pickedImg == "3.png" ||
-              pickedImg == "4.png" ||
-              pickedImg == "6.png"
+              pickedImg == "1 dark brown.png" || pickedImg == "1 dark purple.png" || pickedImg == "1 ginger.png" || pickedImg == "1 light brown.png" || pickedImg == "1 light purple.png" || pickedImg == "1.png" ||
+              pickedImg == "2 blue.png" || pickedImg == "2 dark brown.png" || pickedImg == "2 dark purple.png" || pickedImg == "2 ginger.png" || pickedImg == "2 light brown.png" || pickedImg == "2.png" ||
+              pickedImg == "3 blue.png" || pickedImg == "3 dark brown.png" || pickedImg == "3 ginger.png" || pickedImg == "3 light brown.png" || pickedImg == "3 light purple.png" || pickedImg == "3.png" ||
+              pickedImg == "4 blue.png" || pickedImg == "4 dark purple.png" || pickedImg == "4 ginger.png" || pickedImg == "4 light brown.png" || pickedImg == "4 light purple.png" || pickedImg == "4.png" ||
+              pickedImg == "5 blue.png" || pickedImg == "5 dark purple.png" || pickedImg == "5 light brown.png" || pickedImg == "5 light purple.png" || pickedImg == "5.png" || pickedImg == "5 dark brown.png" ||
+              pickedImg == "6 blue.png" || pickedImg == "6 dark brown.png" || pickedImg == "6 dark purple.png" || pickedImg == "6 ginger.png" || pickedImg == "6 light purple.png" || pickedImg == "6.png"
             ) {
               hairPicked = true;
               backHair = pickedImg;
@@ -437,12 +437,12 @@ async function generateImages() {
               }
             } else {
               if (
-                pickedImg == "1.png" ||
-                pickedImg == "5.png" ||
-                pickedImg == "2.png" ||
-                pickedImg == "3.png" ||
-                pickedImg == "4.png" ||
-                pickedImg == "6.png"
+                pickedImg == "1 brown.png" || pickedImg == "1 dark brown.png" || pickedImg == "1 dark purple.png" || pickedImg == "1 ginger.png" || pickedImg == "1 light purple.png" || pickedImg == "1.png" ||
+                pickedImg == "2 blue.png" || pickedImg == "2 dark brown.png" || pickedImg == "2 dark purple.png" || pickedImg == "2 ginger.png" || pickedImg == "2 light brown.png" || pickedImg == "2.png" ||
+                pickedImg == "3 blue.png" || pickedImg == "3 dark brown.png" || pickedImg == "3 ginger.png" || pickedImg == "3 light brown.png" || pickedImg == "3 light purple.png" || pickedImg == "3.png" ||
+                pickedImg == "4 blue.png" || pickedImg == "4 dark purple.png" || pickedImg == "4 ginger.png" || pickedImg == "4 light brown.png" || pickedImg == "4 light purple.png" || pickedImg == "4.png" ||
+                pickedImg == "5 blue.png" || pickedImg == "5 dark brown.png" || pickedImg == "5 dark purple.png" || pickedImg == "5 light brown.png" || pickedImg == "5 light purple.png" || pickedImg == "5.png" ||
+                pickedImg == "6 blue.png" || pickedImg == "6 dark brown.png" || pickedImg == "6 dark purple.png" || pickedImg == "6 ginger.png" || pickedImg == "6 light purple.png" || pickedImg == "6.png"
               ) {
                 return;
               }
@@ -529,7 +529,10 @@ async function generateImages() {
 
           //male hair 3 != front acc
           if (id == 8) {
-            if (pickedImg == "3.png") {
+            if (
+              // pickedImg == "3.png"
+              pickedImg == "3 blue.png" || pickedImg == "3 dark brown.png" || pickedImg == "3 ginger.png" || pickedImg == "3 light brown.png" || pickedImg == "3 light purple.png" || pickedImg == "3.png"
+              ) {
               nohairpicked = true;
             }
           }
@@ -572,7 +575,10 @@ async function generateImages() {
 
           if (id == 8) {
             if (malebasepicked) {
-              if (pickedImg == "4.png") {
+              if (
+                pickedImg == "4 blue.png" || pickedImg == "4 dark purple.png" || pickedImg == "4 ginger.png" || pickedImg == "4 light brown.png" || pickedImg == "4 light purple.png" || pickedImg == "4.png"
+                // pickedImg == "4.png"
+              ) {
                 return;
               }
             }

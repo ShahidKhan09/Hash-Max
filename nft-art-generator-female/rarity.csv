@@ -7,63 +7,62 @@ name,rarity
 6 Base female,4500
 7 Base female,4500
 8 Base female,4500
-1 Clothes back,556
-2 Clothes back,556
-3 Clothes back,556
-4 Clothes back,556
-5 Clothes back,555
-6 Clothes back,555
-7 Clothes back,555
-8 Clothes back,0
-9 Clothes back,555
-11 Necklaces,667
-2 Necklaces,667
-6 Necklaces,667
+1 Clothes back,4500
+2 Clothes back,4500
+3 Clothes back,4500
+4 Clothes back,4500
+5 Clothes back,4500
+6 Clothes back,4500
+7 Clothes back,4500
+8 Clothes back,4500
+9 Clothes back,4500
+11 Necklaces,4500
+2 Necklaces,4500
+6 Necklaces,4500
 none.3 Necklaces,4500
 none.4 Necklaces,4500
 none Necklaces,4500
 none1 Necklaces,4500
 none2 Necklaces,4500
-1 accessories back,444
-3 accessories back,178
-7 accessories back,533
-bag 1 accessories back,622
-bag 2 accessories back,622
-no accessory - Copy (2) accessories back,664
-no accessory - Copy (3) accessories back,1
-no accessory - Copy accessories back,1
-no accessory accessories back,1
-1 accessories front,444
-11 accessories front,311
-10 accessories front,667
-3 accessories front,178
-5 accessories front,533
-7 accessories front,533
-8 accessories front,667
-9 accessories front,533
-bag 1 accessories front,622
-bag 2 accessories front,622
-no accessory - Copy (2) accessories front,664
-no accessory - Copy (3) accessories front,1
-no accessory - Copy accessories front,1
-no accessory accessories front,1
-veil accessories front,0
-1 backgrounds,493
-12 backgrounds,493
-13 backgrounds,493
-14 backgrounds,493
-3 backgrounds,493
-4 backgrounds,493
-5 backgrounds,493
-6 backgrounds,493
-7 backgrounds,493
-8 backgrounds,500
-aqua backgrounds,5
-green backgrounds,5
-orange backgrounds,5
-pink backgrounds,5
-purple backgrounds,5
-yellow backgrounds,5
+1 accessories back,4500
+3 accessories back,4500
+7 accessories back,4500
+bag 1 accessories back,4500
+bag 2 accessories back,4500
+no accessory - Copy (2) accessories back,222
+no accessory - Copy (3) accessories back,222
+no accessory - Copy accessories back,222
+no accessory accessories back,223
+1 accessories front,4500
+11 accessories front,4500
+10 accessories front,4500
+3 accessories front,4500
+5 accessories front,4500
+7 accessories front,4500
+8 accessories front,4500
+9 accessories front,4500
+bag 1 accessories front,4500
+bag 2 accessories front,4500
+no accessory - Copy (2) accessories front,222
+no accessory - Copy (3) accessories front,222
+no accessory - Copy accessories front,222
+no accessory accessories front,223
+1 backgrounds,4500
+12 backgrounds,4500
+13 backgrounds,4500
+14 backgrounds,4500
+3 backgrounds,4500
+4 backgrounds,4500
+5 backgrounds,4500
+6 backgrounds,4500
+7 backgrounds,4500
+8 backgrounds,4500
+aqua backgrounds,4500
+green backgrounds,4500
+orange backgrounds,4500
+pink backgrounds,4500
+purple backgrounds,4500
+yellow backgrounds,4500
 1 black green female back hair,69
 1 black female back hair,69
 1 blue female back hair,70
@@ -92,7 +91,7 @@ yellow backgrounds,5
 4 black female back hair,69
 4 blue female back hair,70
 4 gray female back hair,69
-4 pink female back hair,556
+4 pink female back hair,69
 4 purple female back hair,69
 4 red female back hair,70
 4 female back hair,70
@@ -192,14 +191,14 @@ veil 8 purple female back hair,55
 veil 8 red female back hair,55
 veil 8 yellow female back hair,56
 veil 8 female back hair,55
-1 female cloths,556
-2 female cloths,556
-3 female cloths,556
-4 female cloths,556
-5 female cloths,555
-6 female cloths,555
-7 female cloths,555
-9 female cloths,555
+1 female cloths,4500
+2 female cloths,4500
+3 female cloths,4500
+4 female cloths,4500
+5 female cloths,4500
+6 female cloths,4500
+7 female cloths,4500
+9 female cloths,4500
 1 female eyes,4500
 2 female eyes,4500
 3 female eyes,4500
@@ -359,5 +358,6 @@ no pets front - Copy (3) pets front,4500
 no pets front - Copy (4) pets front,4500
 no pets front - Copy pets front,4500
 no pets front pets front,4500
+
 snake pets front,4500
 wolf pets front,4500

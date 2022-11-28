@@ -357,7 +357,10 @@ async function generateImages() {
           // hair check
           if (id == 5) {
             if (bagPicked) {
-              if (pickedImg == "2.png" || pickedImg == "3.png") {
+              if (
+              pickedImg == "2 black green.png" || pickedImg == "2 black.png" || pickedImg == "2 blue.png"  || pickedImg == "2 pink.png" || pickedImg == "2 purple.png"  || pickedImg == "2 red.png" || pickedImg == "2 yellow.png" || pickedImg == "2.png" ||
+              pickedImg == "3 black green.png" || pickedImg == "3 black.png" || pickedImg == "3 blue.png"  || pickedImg == "3 gray.png" || pickedImg == "3 purple.png"  || pickedImg == "3 red.png" || pickedImg == "3 yellow.png" || pickedImg == "3.png"  
+              ) {
                 return;
               }
             }
@@ -446,13 +449,20 @@ async function generateImages() {
 
           // clothes check with necklace
 
-          if (id == 5) {
-            if (pickedImg == '1.png' || pickedImg == '2.png' || pickedImg == '5.png' || pickedImg == '6.png') {
-              clothPicked = true;
-            }
-          }
+          // if (id == 5) {
+          //   if (
+          //     // pickedImg == '1.png' || pickedImg == '2.png' || pickedImg == '5.png' || pickedImg == '6.png'
+          //     pickedImg == "1 black green.png" || pickedImg == "1 black.png" || pickedImg == "1 blue.png" || pickedImg == "1 gray.png" || pickedImg == "1 pink.png" || pickedImg == "1 purple.png" || pickedImg == "1 yellow.png" || pickedImg == "1.png"  ||
+          //     pickedImg == "2 black green.png" || pickedImg == "2 black.png" || pickedImg == "2 blue.png"  || pickedImg == "2 pink.png" || pickedImg == "2 purple.png"  || pickedImg == "2 red.png" || pickedImg == "2 yellow.png" || pickedImg == "2.png" ||
+          //     pickedImg == "5 black green.png" || pickedImg == "5 black.png" || pickedImg == "5 gray.png"  || pickedImg == "5 pink.png" || pickedImg == "5 purple.png"  || pickedImg == "5 red.png" || pickedImg == "5 yellow.png" || pickedImg == "5.png" ||
+          //     pickedImg == "6 black green.png" || pickedImg == "6 black.png" || pickedImg == "6 blue.png"  || pickedImg == "6 gray.png" || pickedImg == "2 pink.png"  || pickedImg == "6 red.png" || pickedImg == "6 yellow.png" || pickedImg == "6.png" 
 
-          // Pets checks with front-Pets and back-Pets
+          //     ) {
+          //     clothPicked = true;
+          //   }
+          // }
+
+        //  Pets checks with front-Pets and back-Pets
 
           if (id == 11) {
             if (pickedImg == "dragon.png" || pickedImg == "snake.png") {
@@ -508,7 +518,7 @@ async function generateImages() {
             }
            
           }
-          //Necklaces Is Not Equal to hair Front 1 , 2 , 4.
+      //    Necklaces Is Not Equal to hair Front 1 , 2 , 4.
           if (id == 8) {
               if (pickedImg == "1 black green.png" || pickedImg == "1 black.png"  || pickedImg == "1 blue.png"  || pickedImg == "1 gray.png" || pickedImg == "1 pink.png" || pickedImg == "1 purple.png" || pickedImg == "1 yellow.png" || pickedImg == "1.png" 
               || pickedImg == "2 black green.png"  || pickedImg == "2 black.png"  || pickedImg == "2 blue.png"  || pickedImg == "2 pink.png"  || pickedImg == "2 purple.png"  || pickedImg == "2 red.png"  || pickedImg == "2 yellow.png"  || pickedImg == "2.png"  
@@ -530,19 +540,24 @@ async function generateImages() {
           }
 
           //Veil Is Not Equal to Hair Front 6 & Hair Back 6.
-          if (id == 5) {
-            if (pickedImg == "1.png" || pickedImg == "6.png") {
-              backhairpicked = true
-            }
-        }
+          // waleed bhai 
+        //   if (id == 5) {
+        //     if (
+        //       // pickedImg == "1.png" || pickedImg == "6.png"
+        //       pickedImg == "1 black green.png" || pickedImg == "1 black.png" || pickedImg == "1 blue.png" || pickedImg == "1 gray.png" || pickedImg == "1 pink.png" || pickedImg == "1 purple.png" || pickedImg == "1 yellow.png" || pickedImg == "1.png"  ||
+        //       pickedImg == "6 black green.png" || pickedImg == "6 black.png" || pickedImg == "6 blue.png"  || pickedImg == "6 gray.png" || pickedImg == "2 pink.png"  || pickedImg == "6 red.png" || pickedImg == "6 yellow.png" || pickedImg == "6.png"
+        //       ) {
+        //       backhairpicked = true
+        //     }
+        // }
 //////////////////id == 1
-        if (id == 1) {
-          if(backhairpicked){
-            if (pickedImg == "veil.png" ) {
-              return;
-            }
-          }
-        }
+        // if (id == 1) {
+        //   if(backhairpicked){
+        //     if (pickedImg == "veil.png" ) {
+        //       return;
+        //     }
+        //   }
+        // }
         //blue kapron k sth bags ni ayenge
         if (id == 4) {
           if(bagPicked){
@@ -561,19 +576,19 @@ async function generateImages() {
          }
       }
 /////veil id == 5
-      if (id == 5) {
-       if(backhairpicked){
-        if (
-        pickedImg == "8 black green.png"   || pickedImg == "8 blue.png"   || pickedImg == "8 gray.png"   || pickedImg == "8 pink.png" 
-        || pickedImg == "8 purple.png"   || pickedImg == "8 red.png"   || pickedImg == "8 yellow.png"   || pickedImg == "8.png" 
-        || pickedImg == "veil 8 black.png"   || pickedImg == "veil 8 blue.png"   || pickedImg == "veil 8 gray.png"   
-        || pickedImg == "veil 8 pink.png"   || pickedImg == "veil 8 purple.png"   || pickedImg == "veil 8 red.png" 
-        || pickedImg == "veil 8 yellow.png"   || pickedImg == "veil 8.png" 
-        ) {
-          return;
-        }
-       }
-      }
+      // if (id == 5) {
+      //  if(backhairpicked){
+      //   if (
+      //   pickedImg == "8 black green.png"   || pickedImg == "8 blue.png"   || pickedImg == "8 gray.png"   || pickedImg == "8 pink.png" 
+      //   || pickedImg == "8 purple.png"   || pickedImg == "8 red.png"   || pickedImg == "8 yellow.png"   || pickedImg == "8.png" 
+      //   || pickedImg == "veil 8 black.png"   || pickedImg == "veil 8 blue.png"   || pickedImg == "veil 8 gray.png"   
+      //   || pickedImg == "veil 8 pink.png"   || pickedImg == "veil 8 purple.png"   || pickedImg == "veil 8 red.png" 
+      //   || pickedImg == "veil 8 yellow.png"   || pickedImg == "veil 8.png" 
+      //   ) {
+      //     return;
+      //   }
+      //  }
+      // }
 
       //acc 8 , 10 is not equal to hair 8
 
@@ -585,23 +600,23 @@ async function generateImages() {
        }
       }
       /////veil id == 5
-      if (id == 5) {
-        if (pickedImg == "8 black green.png" || pickedImg == "8 blue.png" || pickedImg == "8 gray.png" || pickedImg == "8 purple.png" 
-        || pickedImg == "8 red.png" || pickedImg == "8 yellow.png" || pickedImg == "8 pink.png" || pickedImg == "8.png" 
-        || pickedImg == "veil 8 black.png" || pickedImg == "veil 8 blue.png" || pickedImg == "veil 8 gray.png" 
-        || pickedImg == "veil 8 pink.png" || pickedImg == "veil 8 purple.png" || pickedImg == "veil 8 red.png" 
-        || pickedImg == "veil 8 yellow.png" || pickedImg == "veil 8.png" ) {
-          backhairpickedwithacc = true
-         }
-      }
+      // if (id == 5) {
+      //   if (pickedImg == "8 black green.png" || pickedImg == "8 blue.png" || pickedImg == "8 gray.png" || pickedImg == "8 purple.png" 
+      //   || pickedImg == "8 red.png" || pickedImg == "8 yellow.png" || pickedImg == "8 pink.png" || pickedImg == "8.png" 
+      //   || pickedImg == "veil 8 black.png" || pickedImg == "veil 8 blue.png" || pickedImg == "veil 8 gray.png" 
+      //   || pickedImg == "veil 8 pink.png" || pickedImg == "veil 8 purple.png" || pickedImg == "veil 8 red.png" 
+      //   || pickedImg == "veil 8 yellow.png" || pickedImg == "veil 8.png" ) {
+      //     backhairpickedwithacc = true
+      //    }
+      // }
 ///////////////////////id == 1 notworking
       //2 ,3 ,5  no earing with accessories front
       if (id == 8) {
         if (
         // pickedImg == "2.png" || pickedImg == "3.png" || pickedImg == "5.png" || pickedImg == "8.png" || pickedImg == "veil 2.png" 
         // || pickedImg == "veil 3.png" || pickedImg == "veil 5.png" || pickedImg == "veil 8.png"
+        // pickedImg == "2 black green.png" || pickedImg == "2 black.png" || pickedImg == "2 blue.png" || pickedImg == "2 pink.png" || pickedImg == "2 purple.png" || pickedImg == "2 red.png" || pickedImg == "2 yellow.png"|| pickedImg == "2.png"
         pickedImg == "2 black green.png" || pickedImg == "2 black.png" || pickedImg == "2 blue.png" || pickedImg == "2 pink.png" || pickedImg == "2 purple.png" || pickedImg == "2 red.png" || pickedImg == "2 yellow.png"|| pickedImg == "2.png"
-        || pickedImg == "2 black green.png" || pickedImg == "2 black.png" || pickedImg == "2 blue.png" || pickedImg == "2 pink.png" || pickedImg == "2 purple.png" || pickedImg == "2 red.png" || pickedImg == "2 yellow.png"|| pickedImg == "2.png"
         || pickedImg == "3 black green.png" || pickedImg == "3 black.png" || pickedImg == "3 blue.png" || pickedImg == "3 gray.png" || pickedImg == "3 purple.png" || pickedImg == "3 red.png" || pickedImg == "3 yellow.png"|| pickedImg == "3.png"
         || pickedImg == "5 black green.png" || pickedImg == "5 black.png" || pickedImg == "5 gray.png" || pickedImg == "5 pink.png" || pickedImg == "5 purple.png" || pickedImg == "5 red.png" || pickedImg == "5 yellow.png"|| pickedImg == "5.png"
         || pickedImg == "8 black.png" || pickedImg == "8 blue.png" || pickedImg == "8 gray.png" || pickedImg == "8 pink.png" || pickedImg == "8 purple.png" || pickedImg == "8 red.png" || pickedImg == "8 yellow.png"|| pickedImg == "8.png"
@@ -629,25 +644,26 @@ async function generateImages() {
          }
       }
 ///veil id == 5
-      if (id == 5) {
-       if(nohairpicked){
-        // if (pickedImg == "1.png" || pickedImg == "3.png" || pickedImg == "4.png" || pickedImg == "veil 1.png" || pickedImg == "veil 2.png" || pickedImg == "veil 3.png" || pickedImg == "veil 4.png" || pickedImg == "veil 5.png" || pickedImg == "veil 6.png" || pickedImg == "veil 7.png" || pickedImg == "veil 8.png") {
-        if (pickedImg == "1 black green.png" || pickedImg == "1 black.png" || pickedImg == "1 blue.png" || pickedImg == "1 gray.png" || pickedImg == "1 pink.png" || pickedImg == "1 purple.png" || pickedImg == "1 yellow.png" || pickedImg == "1.png" 
-        || pickedImg == "3 black green.png" || pickedImg == "3 black.png" || pickedImg == "3 blue.png"  || pickedImg == "3 gray.png" || pickedImg == "3 purple.png"  || pickedImg == "3 red.png" || pickedImg == "3 yellow.png" || pickedImg == "3.png"  
-        || pickedImg == "4 black green.png"  || pickedImg == "4 black.png"  || pickedImg == "4 blue.png"  || pickedImg == "4 gray.png"  || pickedImg == "4 pink.png"  || pickedImg == "4 purple.png"  || pickedImg == "4 red.png"  || pickedImg == "4.png"  
-        || pickedImg == "veil 1 black green.png"  || pickedImg == "veil 1 black.png"   || pickedImg == "veil 1 blue.png"   || pickedImg == "veil 1 gray.png"   || pickedImg == "veil 1 pink.png"   || pickedImg == "veil 1 purple.png"   || pickedImg == "veil 1 yellow.png"   || pickedImg == "veil 1.png" 
-        || pickedImg == "veil 2 black green.png"  || pickedImg == "veil 2 black.png"   || pickedImg == "veil 2 blue.png"   || pickedImg == "veil 2 pink.png"   || pickedImg == "veil 2 purple.png"   || pickedImg == "veil 2 red.png"   || pickedImg == "veil 2 yellow.png"   || pickedImg == "veil 2.png" 
-        || pickedImg == "veil 3 black green.png"  || pickedImg == "veil 3 black.png"   || pickedImg == "veil 3 blue.png"   || pickedImg == "veil 3 gray.png"   || pickedImg == "veil 3 purple.png"   || pickedImg == "veil 3 red.png"   || pickedImg == "veil 3 yellow.png"   || pickedImg == "veil 3.png" 
-        || pickedImg == "veil 4 black green.png"  || pickedImg == "veil 4 black.png"   || pickedImg == "veil 4 blue.png"   || pickedImg == "veil 4 gray.png"   || pickedImg == "veil 4 pink.png"   || pickedImg == "veil 4 purple.png"   || pickedImg == "veil 4 red.png"   || pickedImg == "veil 4.png" 
-        || pickedImg == "veil 5 black green.png"  || pickedImg == "veil 5 black.png"   || pickedImg == "veil 5 gray.png"   || pickedImg == "veil 5 pink.png"   || pickedImg == "veil 5 purple.png"   || pickedImg == "veil 5 red.png"   || pickedImg == "veil 5 yellow.png"   || pickedImg == "veil 5.png" 
-        || pickedImg == "veil 6 black green.png"  || pickedImg == "veil 6 black.png"   || pickedImg == "veil 6 blue.png"   || pickedImg == "veil 6 gray.png"   || pickedImg == "veil 6 pink.png"   || pickedImg == "veil 6 red.png"   || pickedImg == "veil 6 yellow.png"   || pickedImg == "veil 6.png" 
-        || pickedImg == "veil 7 black green.png"  || pickedImg == "veil 7 blue.png"   || pickedImg == "veil 7 gray.png"   || pickedImg == "veil 7 pink.png"   || pickedImg == "veil 7 purple.png"   || pickedImg == "veil 7 red.png"   || pickedImg == "veil 7 yellow.png"   || pickedImg == "veil 7.png" 
-        || pickedImg == "veil 8 black.png"  || pickedImg == "veil 8 blue.png"   || pickedImg == "veil 8 gray.png"   || pickedImg == "veil 8 pink.png"   || pickedImg == "veil 8 purple.png"   || pickedImg == "veil 8 red.png"   || pickedImg == "veil 8 yellow.png"   || pickedImg == "veil 8.png" 
-        ) {
-          return;
-        }
-       }
-      } 
+      // if (id == 5) {
+      //  if(nohairpicked){
+      //   // if (pickedImg == "1.png" || pickedImg == "3.png" || pickedImg == "4.png" || pickedImg == "veil 1.png" || pickedImg == "veil 2.png" || pickedImg == "veil 3.png" || pickedImg == "veil 4.png" || pickedImg == "veil 5.png" || pickedImg == "veil 6.png" || pickedImg == "veil 7.png" || pickedImg == "veil 8.png") {
+      //   if (
+      //   pickedImg == "1 black green.png" || pickedImg == "1 black.png" || pickedImg == "1 blue.png" || pickedImg == "1 gray.png" || pickedImg == "1 pink.png" || pickedImg == "1 purple.png" || pickedImg == "1 yellow.png" || pickedImg == "1.png" 
+      //   || pickedImg == "3 black green.png" || pickedImg == "3 black.png" || pickedImg == "3 blue.png"  || pickedImg == "3 gray.png" || pickedImg == "3 purple.png"  || pickedImg == "3 red.png" || pickedImg == "3 yellow.png" || pickedImg == "3.png"  
+      //   || pickedImg == "4 black green.png"  || pickedImg == "4 black.png"  || pickedImg == "4 blue.png"  || pickedImg == "4 gray.png"  || pickedImg == "4 pink.png"  || pickedImg == "4 purple.png"  || pickedImg == "4 red.png"  || pickedImg == "4.png"  
+      //   || pickedImg == "veil 1 black green.png"  || pickedImg == "veil 1 black.png"   || pickedImg == "veil 1 blue.png"   || pickedImg == "veil 1 gray.png"   || pickedImg == "veil 1 pink.png"   || pickedImg == "veil 1 purple.png"   || pickedImg == "veil 1 yellow.png"   || pickedImg == "veil 1.png" 
+      //   || pickedImg == "veil 2 black green.png"  || pickedImg == "veil 2 black.png"   || pickedImg == "veil 2 blue.png"   || pickedImg == "veil 2 pink.png"   || pickedImg == "veil 2 purple.png"   || pickedImg == "veil 2 red.png"   || pickedImg == "veil 2 yellow.png"   || pickedImg == "veil 2.png" 
+      //   || pickedImg == "veil 3 black green.png"  || pickedImg == "veil 3 black.png"   || pickedImg == "veil 3 blue.png"   || pickedImg == "veil 3 gray.png"   || pickedImg == "veil 3 purple.png"   || pickedImg == "veil 3 red.png"   || pickedImg == "veil 3 yellow.png"   || pickedImg == "veil 3.png" 
+      //   || pickedImg == "veil 4 black green.png"  || pickedImg == "veil 4 black.png"   || pickedImg == "veil 4 blue.png"   || pickedImg == "veil 4 gray.png"   || pickedImg == "veil 4 pink.png"   || pickedImg == "veil 4 purple.png"   || pickedImg == "veil 4 red.png"   || pickedImg == "veil 4.png" 
+      //   || pickedImg == "veil 5 black green.png"  || pickedImg == "veil 5 black.png"   || pickedImg == "veil 5 gray.png"   || pickedImg == "veil 5 pink.png"   || pickedImg == "veil 5 purple.png"   || pickedImg == "veil 5 red.png"   || pickedImg == "veil 5 yellow.png"   || pickedImg == "veil 5.png" 
+      //   || pickedImg == "veil 6 black green.png"  || pickedImg == "veil 6 black.png"   || pickedImg == "veil 6 blue.png"   || pickedImg == "veil 6 gray.png"   || pickedImg == "veil 6 pink.png"   || pickedImg == "veil 6 red.png"   || pickedImg == "veil 6 yellow.png"   || pickedImg == "veil 6.png" 
+      //   || pickedImg == "veil 7 black green.png"  || pickedImg == "veil 7 blue.png"   || pickedImg == "veil 7 gray.png"   || pickedImg == "veil 7 pink.png"   || pickedImg == "veil 7 purple.png"   || pickedImg == "veil 7 red.png"   || pickedImg == "veil 7 yellow.png"   || pickedImg == "veil 7.png" 
+      //   || pickedImg == "veil 8 black.png"  || pickedImg == "veil 8 blue.png"   || pickedImg == "veil 8 gray.png"   || pickedImg == "veil 8 pink.png"   || pickedImg == "veil 8 purple.png"   || pickedImg == "veil 8 red.png"   || pickedImg == "veil 8 yellow.png"   || pickedImg == "veil 8.png" 
+      //   ) {
+      //     return;
+      //   }
+      //  }
+      // } 
 
 
           picked.push(pickedImgId);
@@ -676,7 +692,7 @@ async function generateImages() {
           id++;
           breakLoop++;
         }
-        if (breakLoop == 200) {
+        if (breakLoop == 4445) {
           console.log('Break loop')
           break;
         }
